@@ -13,7 +13,7 @@ Gurjot Singh</a></h1>
 
 - 🔭 I’m currently working on Flutter , Unity3D ,UI/UX
 
-- 💬 Ask me about ... Game , App Development , UI/UX designs
+- 💬 Ask me about ... Game , App Development , UI/UX 
   
 - ⚡ Fun fact: ...I am Seer Doer & Enjoyer
 
